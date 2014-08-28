@@ -2,7 +2,7 @@
 
 A barebones Clojure app to showcase isolated development environment with [Fig](http://www.fig.sh/).
 
-This repository is a fork of the Heroku project.
+This repository is a fork from the Heroku project of the same name.
 
 ## Dependencies
 
