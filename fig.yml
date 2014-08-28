@@ -1,0 +1,7 @@
+web:
+  build: .
+  command: lein run 8000
+  environment:
+    APP_ENV: "develop"
+  ports:
+    - "8000:8000"
