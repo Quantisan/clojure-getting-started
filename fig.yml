@@ -1,6 +1,8 @@
 web:
   build: .
   command: lein run 8000
+  volumes:
+    - .:/code
   environment:
     APP_ENV: "develop"
   ports:
